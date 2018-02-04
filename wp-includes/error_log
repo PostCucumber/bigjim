@@ -1,0 +1,2 @@
+[27-Nov-2017 13:55:10 UTC] PHP Fatal error:  Class 'Walker' not found in /home/dylanj/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[19-Jan-2018 22:40:28 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dylanj/public_html/wp-includes/locale.php on line 10

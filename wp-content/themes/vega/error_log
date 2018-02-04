@@ -1,0 +1,1 @@
+[17-Aug-2017 19:11:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/index.php on line 8

@@ -1,0 +1,84 @@
+[17-May-2017 00:17:44 UTC] WordPress database error Unknown column 'wp_million' in 'field list' for query SELECT wp_million
+[25-May-2017 17:20:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 264263 bytes) in /home/dylanj/public_html/millionman.army/wp-includes/wp-db.php on line 3027
+[17-Aug-2017 20:30:20 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/functions.php on line 14
+[17-Aug-2017 20:30:20 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/functions.php on line 14
+[17-Aug-2017 20:32:21 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/functions.php on line 14
+[17-Aug-2017 20:32:21 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/functions.php on line 14
+[17-Aug-2017 20:34:22 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/functions.php on line 14
+[17-Aug-2017 20:34:22 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/functions.php on line 14
+[17-Aug-2017 20:36:23 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/functions.php on line 14
+[17-Aug-2017 20:36:23 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dylanj/public_html/millionman.army/wp-content/themes/vega/functions.php on line 14
+[03-Nov-2017 19:22:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%1$s )' at line 3 for query 
+				SELECT internal_link_count, incoming_link_count, object_id
+				FROM wp_yoast_seo_meta
+			    WHERE object_id IN ( %1$s ) made by WP_List_Table->display, WP_List_Table->display_tablenav, WP_Posts_List_Table->extra_tablenav, do_action('manage_posts_extra_tablenav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Columns->count_objects, WPSEO_Link_Columns->set_count_objects, WPSEO_Link_Column_Count->set, WPSEO_Link_Column_Count->get_results
+[03-Nov-2017 19:26:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%1$s )' at line 3 for query 
+				SELECT internal_link_count, incoming_link_count, object_id
+				FROM wp_yoast_seo_meta
+			    WHERE object_id IN ( %1$s ) made by WP_List_Table->display, WP_List_Table->display_tablenav, WP_Posts_List_Table->extra_tablenav, do_action('manage_posts_extra_tablenav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Columns->count_objects, WPSEO_Link_Columns->set_count_objects, WPSEO_Link_Column_Count->set, WPSEO_Link_Column_Count->get_results
+[03-Nov-2017 19:28:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%1$s )' at line 3 for query 
+				SELECT internal_link_count, incoming_link_count, object_id
+				FROM wp_yoast_seo_meta
+			    WHERE object_id IN ( %1$s ) made by WP_List_Table->display, WP_List_Table->display_tablenav, WP_Posts_List_Table->extra_tablenav, do_action('manage_posts_extra_tablenav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Columns->count_objects, WPSEO_Link_Columns->set_count_objects, WPSEO_Link_Column_Count->set, WPSEO_Link_Column_Count->get_results
+[03-Nov-2017 19:33:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%1$s )' at line 3 for query 
+				SELECT internal_link_count, incoming_link_count, object_id
+				FROM wp_yoast_seo_meta
+			    WHERE object_id IN ( %1$s ) made by WP_List_Table->display, WP_List_Table->display_tablenav, WP_Posts_List_Table->extra_tablenav, do_action('manage_posts_extra_tablenav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Columns->count_objects, WPSEO_Link_Columns->set_count_objects, WPSEO_Link_Column_Count->set, WPSEO_Link_Column_Count->get_results
+[03-Nov-2017 19:55:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%1$s )' at line 3 for query 
+				SELECT internal_link_count, incoming_link_count, object_id
+				FROM wp_yoast_seo_meta
+			    WHERE object_id IN ( %1$s ) made by WP_List_Table->display, WP_List_Table->display_tablenav, WP_Posts_List_Table->extra_tablenav, do_action('manage_posts_extra_tablenav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Columns->count_objects, WPSEO_Link_Columns->set_count_objects, WPSEO_Link_Column_Count->set, WPSEO_Link_Column_Count->get_results
+[03-Nov-2017 20:02:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%1$s )' at line 3 for query 
+				SELECT internal_link_count, incoming_link_count, object_id
+				FROM wp_yoast_seo_meta
+			    WHERE object_id IN ( %1$s ) made by WP_List_Table->display, WP_List_Table->display_tablenav, WP_Posts_List_Table->extra_tablenav, do_action('manage_posts_extra_tablenav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Columns->count_objects, WPSEO_Link_Columns->set_count_objects, WPSEO_Link_Column_Count->set, WPSEO_Link_Column_Count->get_results
+[03-Nov-2017 20:03:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id' at line 2 for query 
+			SELECT COUNT( id ) AS incoming, target_post_id AS post_id
+			  FROM %2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Watcher->save_post, WPSEO_Link_Content_Processor->process, WPSEO_Link_Content_Processor->update_incoming_links, WPSEO_Meta_Storage->update_incoming_link_count
+[03-Nov-2017 20:05:25 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%1$s )' at line 3 for query 
+				SELECT internal_link_count, incoming_link_count, object_id
+				FROM wp_yoast_seo_meta
+			    WHERE object_id IN ( %1$s ) made by WP_List_Table->display, WP_List_Table->display_tablenav, WP_Posts_List_Table->extra_tablenav, do_action('manage_posts_extra_tablenav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Columns->count_objects, WPSEO_Link_Columns->set_count_objects, WPSEO_Link_Column_Count->set, WPSEO_Link_Column_Count->get_results
+[03-Nov-2017 20:06:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id' at line 2 for query 
+			SELECT COUNT( id ) AS incoming, target_post_id AS post_id
+			  FROM %2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Watcher->save_post, WPSEO_Link_Content_Processor->process, WPSEO_Link_Content_Processor->update_incoming_links, WPSEO_Meta_Storage->update_incoming_link_count
+[03-Nov-2017 20:07:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id' at line 2 for query 
+			SELECT COUNT( id ) AS incoming, target_post_id AS post_id
+			  FROM %2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Watcher->save_post, WPSEO_Link_Content_Processor->process, WPSEO_Link_Content_Processor->update_incoming_links, WPSEO_Meta_Storage->update_incoming_link_count
+[03-Nov-2017 20:08:27 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id' at line 2 for query 
+			SELECT COUNT( id ) AS incoming, target_post_id AS post_id
+			  FROM %2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Watcher->save_post, WPSEO_Link_Content_Processor->process, WPSEO_Link_Content_Processor->update_incoming_links, WPSEO_Meta_Storage->update_incoming_link_count
+[03-Nov-2017 20:09:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id' at line 2 for query 
+			SELECT COUNT( id ) AS incoming, target_post_id AS post_id
+			  FROM %2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Watcher->save_post, WPSEO_Link_Content_Processor->process, WPSEO_Link_Content_Processor->update_incoming_links, WPSEO_Meta_Storage->update_incoming_link_count
+[03-Nov-2017 21:28:41 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%1$s )' at line 3 for query 
+				SELECT internal_link_count, incoming_link_count, object_id
+				FROM wp_yoast_seo_meta
+			    WHERE object_id IN ( %1$s ) made by WP_List_Table->display, WP_List_Table->display_tablenav, WP_Posts_List_Table->extra_tablenav, do_action('manage_posts_extra_tablenav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Columns->count_objects, WPSEO_Link_Columns->set_count_objects, WPSEO_Link_Column_Count->set, WPSEO_Link_Column_Count->get_results
+[03-Nov-2017 21:29:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id' at line 2 for query 
+			SELECT COUNT( id ) AS incoming, target_post_id AS post_id
+			  FROM %2$s
+			 WHERE target_post_id IN( %3$s )
+		  GROUP BY target_post_id made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPSEO_Link_Watcher->save_post, WPSEO_Link_Content_Processor->process, WPSEO_Link_Content_Processor->update_incoming_links, WPSEO_Meta_Storage->update_incoming_link_count
