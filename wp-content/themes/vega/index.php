@@ -9,9 +9,9 @@ get_template_part('parts/banner'); ?>
     <div class="container">
         <div class="flex-row row">
             <?php
-            // echo '<pre>';
-            // print_r($results);
-            // echo '</pre>';
+            echo '<pre>';
+            print_r($results);
+            echo '</pre>';
             foreach ($results->posts as $result) {
                 include(locate_template('template-parts/partials/mini-article.php'));
             } ?>

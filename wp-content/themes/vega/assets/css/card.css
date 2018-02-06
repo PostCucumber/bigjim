@@ -14,8 +14,8 @@
 	flex: 1 0 auto;
 	height: auto;
     position: relative;
-    border-radius: 0px;
 }
+
 .flex-text {
 	flex-grow: 1;
 }
