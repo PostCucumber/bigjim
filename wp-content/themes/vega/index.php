@@ -9,7 +9,7 @@ get_template_part('parts/banner'); ?>
     <div class="container">
         <div class="flex-row row">
             <?php
-            echo '<pre>';
+            echo '<pre style="height:300px">';
             print_r($results);
             echo '</pre>';
             foreach ($results->posts as $result) {
